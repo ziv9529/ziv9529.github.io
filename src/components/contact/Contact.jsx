@@ -64,7 +64,7 @@ const Contact = () => {
                             <h3 className="contact__card-title">Email</h3>
                             <span className="contact__card-data">ziva9529@gmail.com</span>
 
-                            <a href="mailto:ziva9529@gmail.com.com" className="contact__button" target="_blank" rel="noreferrer">Write me {" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <a href="mailto:ziva9529@gmail.com.com" className="contact__button" target="_blank" rel="noreferrer">Email me {" "} <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
                         <div className="contact__card">
                             <i className="bx bxl-whatsapp contact__card-icon"></i>
@@ -75,12 +75,12 @@ const Contact = () => {
                             <a href="https://api.whatsapp.com/send?phone=972549436465&text=Hello,%20Can%20we%20talk?" target="_blank" rel="noreferrer" className="contact__button">Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
                         <div className="contact__card">
-                            <i className="bx bxl-linkedin contact__card-icon"></i>
+                            <i className="bx bx-phone-call contact__card-icon"></i>
 
-                            <h3 className="contact__card-title">LinkedIn</h3>
-                            <span className="contact__card-data">Ziv Ashkenazi</span>
+                            <h3 className="contact__card-title">Phone Call</h3>
+                            <span className="contact__card-data">+972-54-943-6465</span>
 
-                            <a href="https://www.linkedin.com/in/ziv-ashkenazi/" className="contact__button" target="_blank" rel="noreferrer" >Write me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
+                            <a href="tel:+972549436465" className="contact__button" target="_blank" rel="noreferrer" >Call me <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
                     </div>
                 </div>
