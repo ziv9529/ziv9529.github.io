@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.b94cbf23.css",
-    "main.js": "/static/js/main.519c5ecb.js",
+    "main.js": "/static/js/main.7610f540.js",
     "static/media/profile.JPEG": "/static/media/profile.e48e46fe9b75bd1b3b7b.JPEG",
     "static/media/Ziv_Ashkenazi_CV.pdf": "/static/media/Ziv_Ashkenazi_CV.86d0ce6711711964af3e.pdf",
     "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "index.html": "/index.html",
     "main.b94cbf23.css.map": "/static/css/main.b94cbf23.css.map",
-    "main.519c5ecb.js.map": "/static/js/main.519c5ecb.js.map"
+    "main.7610f540.js.map": "/static/js/main.7610f540.js.map"
   },
   "entrypoints": [
     "static/css/main.b94cbf23.css",
-    "static/js/main.519c5ecb.js"
+    "static/js/main.7610f540.js"
   ]
 }
