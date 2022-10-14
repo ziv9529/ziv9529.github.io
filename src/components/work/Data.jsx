@@ -1,17 +1,20 @@
-import Work1 from "../../assets/work1.jpg"
+import Work1 from "../../assets/work1.png";
+import Work2 from "../../assets/work2.png";
 
 export const projectsData = [
     {
         id: 1,
         image: Work1,
-        title: 'Work 1',
-        technologies: 'React'
+        title: 'Online Super Market',
+        technologies: 'Angular, Node.JS, MySQL, Docker.',
+        gh_link: 'https://github.com/ziv9529/project4_shopping'
     },
     {
         id: 2,
-        image: Work1,
-        title: 'Work 2',
-        technologies: 'React'
+        image: Work2,
+        title: 'Vacations Feed',
+        technologies: 'React, Node.JS, MySQL, Docker.',
+        gh_link: 'https://github.com/ziv9529/vacations'
     },
     {
         id: 3,
