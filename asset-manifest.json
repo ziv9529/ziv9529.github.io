@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.cf21a2fa.css",
-    "main.js": "/static/js/main.dcb31c4a.js",
+    "main.js": "/static/js/main.997c9666.js",
     "static/media/profile.JPEG": "/static/media/profile.e48e46fe9b75bd1b3b7b.JPEG",
+    "static/media/work4.png": "/static/media/work4.a1bb785d69cb9b040c76.png",
     "static/media/work2.png": "/static/media/work2.258bc5963f6dcc98b057.png",
     "static/media/work1.png": "/static/media/work1.de16d9fe97cc74edbffd.png",
+    "static/media/work5.png": "/static/media/work5.3069b43a5ee5f050c4a0.png",
+    "static/media/work3.png": "/static/media/work3.7d806d98d439d82a595f.png",
     "static/media/Ziv_Ashkenazi_CV.pdf": "/static/media/Ziv_Ashkenazi_CV.86d0ce6711711964af3e.pdf",
     "index.html": "/index.html",
     "main.cf21a2fa.css.map": "/static/css/main.cf21a2fa.css.map",
-    "main.dcb31c4a.js.map": "/static/js/main.dcb31c4a.js.map"
+    "main.997c9666.js.map": "/static/js/main.997c9666.js.map"
   },
   "entrypoints": [
     "static/css/main.cf21a2fa.css",
-    "static/js/main.dcb31c4a.js"
+    "static/js/main.997c9666.js"
   ]
 }
