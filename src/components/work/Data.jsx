@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.png";
 import Work3 from "../../assets/work3.png";
 import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
+import Work6 from "../../assets/work6.png";
 
 export const projectsData = [
     {
@@ -39,6 +40,13 @@ export const projectsData = [
         title: 'Servers Management',
         technologies: 'React, Node.JS, MySQL.',
         gh_link: 'https://github.com/ziv9529/Servers-Management'
+    },
+    {
+        id: 6,
+        image: Work6,
+        title: 'Taskbar',
+        technologies: 'JavaScript, CSS',
+        gh_link: 'https://github.com/ziv9529/taskbar_project'
     }
 
 ]

@@ -13,7 +13,8 @@ const About = () => {
                 <img src={AboutImg} alt="" className="about__img" />
                 <div className="about__data">
                     <Info />
-                    <p className="about__description">Full Stack Developer. Open to new challenges, with high motivation and passion for new technologies and innovations.
+                    <p className="about__description">Full Stack Developer.<br />
+                        Open to new challenges, with high motivation and passion for new technologies and innovations. <br />
                         Looking for a full-time position as a Full Stack Developer to continue to grow my skill set.</p>
                     <a download="Ziv_Ashkenazi_CV" href={CV} className="button button--flex">
                         Download CV
